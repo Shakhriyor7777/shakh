@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkred;
+}
+
+.a{
+text-align: center;
+font-size: 50px;
+}
+
+.b{
+    color: yellow;
+}
+
+.c{
+    color: white;
+}
+
+.d{
+    margin-left: 70px;
+}
+
+
+ .z{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+ }
+
+
+ .wrapper{
+display: flex;
+
+justify-content: space-evenly;
+margin-top: 30px;
+ }
+
+
+ .qwe{
+    display: flex;
+    justify-content: space-evenly;
+ }
